@@ -1,0 +1,19 @@
+<h1>Android 开源库及示例代码</h1>
+
+= =
+
+= 说明 =
+
+本页面汇总收集的各种 Android 的开源代码库、文档、资料
+
+----
+
+= 1 Android系统 =
+
+<h4>adb命令</h4>
+详细的Google查，最近用的几个：
+adb shell screencap -p
+adb shell screencap -p /sdcard/autojump.png
+adb pull /sdcard/autojump.png
+adb shell screenrecord /sdcard/xx.mp4
+adb shell input swipe {x1} {y1} {x2} {y2} {duration}
