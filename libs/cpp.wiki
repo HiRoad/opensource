@@ -2962,6 +2962,9 @@ Home：[http://htmlcxx.sourceforge.net/]
 如其名，是基于 C++ 开发的。支持 HTML 和 CSS 的解析。
 
 == 12.4 PDF ==
+<h4>MuPdf</h4>
+home: [https://mupdf.com/index.html]
+最近流行的轻量级 SumatraPDF 用的就是这个库
 
 <h4>PoDoFo</h4>
 
